@@ -1,0 +1,53 @@
+# Power BI Dashboard Project
+
+This project demonstrates business intelligence and data visualization using Microsoft Power BI  
+The goal is to convert raw data into interactive dashboards and actionable insights for decision making
+
+# Features
+Data Cleaning and Transformation : 
+Used Power Query to clean and reshape raw data  
+Handled missing values, created calculated columns, and applied data type conversions  
+Built relationships between multiple tables for unified reporting  
+
+Exploratory Analysis :
+Designed measures using DAX (Data Analysis Expressions) for KPIs  
+Created ratios such as Wage to Overall rating, Age Groups, Performance Classes  
+Implemented filters to highlight key patterns  
+
+Interactive Visualizations :
+Bar, Column, Line, and Pie charts for comparisons and trends  
+KPI cards for quick overview of performance  
+Slicers for filtering data dynamically  
+Drill through pages for detailed analysis at individual level  
+
+Dashboard Design :
+Built a single page executive dashboard summarizing all key insights  
+Used a clean professional color theme for readability  
+Organized visuals to show trends, comparisons, and performance distribution  
+
+# Tools and Skills Used:
+Microsoft Power BI  
+Power Query (ETL Extract Transform Load)  
+DAX (Data Analysis Expressions)  
+Data Modeling (Relationships, Hierarchies, Calculated Columns)  
+Dashboard Design Principles  
+
+# Sample Visuals
+https://drive.google.com/file/d/1j3IzM6qesTHxheQXl0EH0ILw8TYU-0b0/view?usp=sharing
+
+# How to Use
+Open the file Power BI Project.pbix in Power BI Desktop  
+Explore the dashboard and use slicers for filtering  
+Navigate through drill through pages for deeper insights  
+
+# Insights Generated
+Top Players and Clubs identified based on overall rating and performance  
+Wage to performance analysis helped in understanding value for money  
+Age group distribution gave insights into talent pipelines  
+Performance classification showed how players are grouped by skill  
+
+# Future Improvements
+Connect Power BI dashboard to a live database or API  
+Add forecasting and predictive analytics using built in AI visuals  
+Publish report to Power BI Service for online access  
+Embed the dashboard into a web application or portfolio site  
